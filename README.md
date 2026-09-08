@@ -1,3 +1,9 @@
+> **⚠️ 兼容性声明 / Compatibility Note**
+> 本项目基于 Codex 测试，其他 AI 工具未经测试，效果参差不齐。
+> This project is tested with Codex. Other AI tools are untested and may produce inconsistent results.
+
+---
+
 # 🎬 AI Short Drama Production
 
 **V20 — Feature-Frozen AI Short-Drama Production Skill** · V20 封版 · AI 短剧量产型生产技能
