@@ -17,6 +17,17 @@
 
 ---
 
+## 🔗 Related Project / 相关项目
+
+本仓库是 **V20 封版的精简量产版**；想要完整的多智能体全家桶版本（故事/人物/剧本/QA/营销等
+20+ Agent、11 条工作流、记忆与知识图谱）？
+
+→ [**AI-Drama-Skill**](https://github.com/rouql/AI-Drama-Skill)
+
+This is the lean, feature-frozen V20 production skill. For the full multi-agent all-in-one
+version (20+ agents, 11 workflows, memory & knowledge graph), see
+[AI-Drama-Skill](https://github.com/rouql/AI-Drama-Skill).
+
 ## ✨ Core Features / 核心特性
 
 | Feature | 说明 / Description |
